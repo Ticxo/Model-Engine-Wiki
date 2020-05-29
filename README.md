@@ -6,7 +6,7 @@ Model Engine is a Minecraft plugin that breaks the barrier of entity modeling an
 Currently, Model Engine supports Minecraft 1.14 to 1.15. If you want 1.13 or below, check out [ModelAPI](https://www.spigotmc.org/resources/modelapi-custom-entity-model-manager.68014/).
 
 ## Installation
-1. Download ModelEngine
+1. Download Model Engine
 2. Place the plugin jar file into the `plugins` folder of your server
 3. Happy modeling
 
