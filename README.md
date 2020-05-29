@@ -14,4 +14,4 @@ Currently, Model Engine supports Minecraft 1.14 to 1.15. If you want 1.13 or bel
 Click [here](https://github.com/Ticxo/Model-Engine/wiki) to start your modeling journey.
 
 ## Bug Report, Feature Request, and Plugin Support
-Join our [Discord](https://discord.gg/kngdsQT). It is free, and you can socialize with other users!
+Join our [Discord](https://discord.gg/vbdyuac). It is free, and you can socialize with other users!
