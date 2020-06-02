@@ -1,6 +1,6 @@
 LICENSE
 
-Version 1.0, May 2020
+Version 1.1, May 2020
 Copyright (C) 2020 Ticxo
 
 1. Definition
