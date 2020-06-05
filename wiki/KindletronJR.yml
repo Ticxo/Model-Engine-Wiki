@@ -1,0 +1,13 @@
+KindletronJR:
+  Type: SILVERFISH
+  Health: 20
+  Damage: 0
+  Skills:
+  - model{mid=kindletronjr} @self ~onSpawn
+  - skill{s=KindletronJRInit;sync=true} @self ~onAttack
+  Options:
+    Silent: true
+    MovementSpeed: 0.1
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+    PreventBlockInfection: true

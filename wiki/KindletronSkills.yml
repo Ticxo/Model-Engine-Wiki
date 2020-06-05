@@ -1,0 +1,16 @@
+KindletronJRInit:
+  Skills:
+  - CancelEvent
+  - skill{s=KindletronJRPunch} @self
+
+KindletronJRPunch:
+  Cooldown: 1.05
+  Skills:
+  - state{s=attack;li=3;lo=2} @self
+  - stun{d=25} @self
+  - delay 25
+  - totem{ch=1;onStart=KindletronJRPunchDamage;int=1;hR=3;md=1} @Forward{f=0.5}
+
+KindletronJRPunchDamage:
+  Skills:
+  - damage{amount=3} @EntitiesNearOrigin{r=2}
