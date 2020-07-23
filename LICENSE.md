@@ -1,6 +1,6 @@
 LICENSE
 
-Version 1.1, May 2020
+Version 1.2, July 2020
 Copyright (C) 2020 Ticxo
 
 1. Definition
@@ -16,6 +16,6 @@ Copyright (C) 2020 Ticxo
 3. If You create extensions or modifications of this Plugin, they may not be published or Distributed without express permission from the Licensor.
 4. Licensor does not retain any rights or responsibilities for the Resources You generate using Model Engine.
 5. The following is a list of all registered licensing entities at the onset of this license:
-    * www.spigotmc.org/resources/conxeptworks-model-engine%E2%80%94ultimate-entity-model-manager-1-14-1-15-2.79477/
+    * www.spigotmc.org/resources/79477/
     * www.mc-market.org/resources/15743/
     * Ticxo (conxeptworks@gmail.com)
