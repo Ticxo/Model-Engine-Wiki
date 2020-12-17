@@ -15,7 +15,7 @@ Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your mode
 
 ## Demo
 You can download the demo files for the model and MythicMobs here.  
-[Model](https://drive.google.com/file/d/1lSCIC0BnXt0Pw7VOsM_e6TCKQGTlMvFh/view?usp=sharing)  
+[Model](https://drive.google.com/file/d/1gMiE6mii_9AiRRj9QFq480xvrRPW9Gdg/view?usp=sharing)  
 [Mob YML](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronJR.yml)  
 [Skill YML](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronSkills.yml)  
 
