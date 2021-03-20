@@ -1,7 +1,7 @@
 LICENSE
 
-Version 1.2, July 2020
-Copyright (C) 2020 Ticxo
+Version 1.3, March 2021
+Copyright (C) 2021 Ticxo
 
 1. Definition
     * "Server" shall mean server hosting Minecraft's multiplayer gamemode.
@@ -18,4 +18,5 @@ Copyright (C) 2020 Ticxo
 5. The following is a list of all registered licensing entities at the onset of this license:
     * www.spigotmc.org/resources/79477/
     * www.mc-market.org/resources/15743/
+    * www.mythiccraft.io/index.php?resources/389/
     * Ticxo (conxeptworks@gmail.com)
