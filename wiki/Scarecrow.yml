@@ -1,0 +1,17 @@
+Scarecrow:
+  Type: PIG
+  Display: '&7&lScarecrow'
+  Health: 20
+  Damage: 1
+  Equipment:
+  - shears:0 1 1
+  - composter:5 1 1
+  Options:
+    NoDamageTicks: 5
+    FollowRange: 60
+    PreventOtherDrops: true
+    Silent: true
+  Skills:
+  - model{mid=scarecrow;n=true;mt=true} @self ~onSpawn
+  - state{mid=scarecrow;s=damaged;li=0;lo=0} @self ~onDamaged
+  - mountmodel @trigger ~onInteract
