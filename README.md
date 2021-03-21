@@ -15,9 +15,8 @@ Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your mode
 
 ## Demo
 You can download the demo files for the model and MythicMobs here.  
-[Model](https://drive.google.com/file/d/1gMiE6mii_9AiRRj9QFq480xvrRPW9Gdg/view?usp=sharing)  
-[Mob YML](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronJR.yml)  
-[Skill YML](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronSkills.yml)  
+KindletronJR [[Model]](https://drive.google.com/file/d/1gMiE6mii_9AiRRj9QFq480xvrRPW9Gdg/view?usp=sharing) [[Mob YML]](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronJR.yml) [[Skill YML]](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronSkills.yml)  
+Scarecrow (credits to [Naoxia](https://www.youtube.com/channel/UCc5itTcpJZV_5Sj2VvfS1DA)) [[Model]](https://drive.google.com/file/d/122-TiGNuDWCMov4NjVD-44sEtVAsC8rM/view?usp=sharing) [[Mob YML]](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/Scarecrow.yml)  
 
 ## Bug Report, Feature Request, and Plugin Support
 Join our [Discord](https://discord.gg/vbdyuac). It is free, and you can socialize with other users!
