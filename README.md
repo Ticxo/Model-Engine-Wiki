@@ -13,6 +13,21 @@ Currently, Model Engine supports Minecraft 1.14 to 1.16. If you want 1.13 or bel
 ## Wiki
 Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your modeling journey.
 
+## API
+```xml
+<repository>
+  <id>nexus</id>
+  <name>Lumine Releases</name>
+  <url>http://mvn.lumine.io/repository/maven-releases/</url>
+</repository>
+
+<dependency>
+  <groupId>com.ticxo.modelengine</groupId>
+  <artifactId>api</artifactId>
+  <version>R2.1.2</version>
+</dependency>
+```
+
 ## Demo
 You can download the demo files for the model and MythicMobs here.  
 KindletronJR [[Model]](https://drive.google.com/file/d/1gMiE6mii_9AiRRj9QFq480xvrRPW9Gdg/view?usp=sharing) [[Mob YML]](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronJR.yml) [[Skill YML]](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/KindletronSkills.yml)  
