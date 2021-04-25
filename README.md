@@ -34,5 +34,5 @@ KindletronJR [[Model]](https://drive.google.com/file/d/1gMiE6mii_9AiRRj9QFq480xv
 Scarecrow ([Naoxia](https://www.youtube.com/channel/UCc5itTcpJZV_5Sj2VvfS1DA)) [[Model]](https://drive.google.com/file/d/122-TiGNuDWCMov4NjVD-44sEtVAsC8rM/view?usp=sharing) [[Mob YML]](https://github.com/Ticxo/Model-Engine-Wiki/blob/master/wiki/Scarecrow.yml)  
 Kindletron Senior ([LittleRoomDev](https://www.youtube.com/channel/UCGgqcLqJSpXVqanJyE_6L3A)) [[Download]](https://www.patreon.com/posts/kindletron-free-49222891)
 
-## Bug Report, Feature Request, and Plugin Support
-Join our [Discord](https://discord.gg/vbdyuac). It is free, and you can socialize with other users!
+## Bug Reports, Feature Requests, Plugin Support, Community, and Marketplace
+Join our [Discord](https://discord.gg/vbdyuac). It's free, and you can socialize with other users!
