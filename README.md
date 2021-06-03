@@ -14,11 +14,13 @@ Currently, Model Engine supports Minecraft 1.14 to 1.16. If you want 1.13 or bel
 Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your modeling journey.
 
 ## API
+[![Latest Version](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fmvn.lumine.io%2Frepository%2Fmaven-releases%2Fcom%2Fticxo%2Fmodelengine%2Fapi%2Fmaven-metadata.xml)](https://mvn.lumine.io/service/rest/repository/browse/maven-releases/com/ticxo/modelengine/api/)
+
 ```xml
 <repository>
   <id>nexus</id>
   <name>Lumine Releases</name>
-  <url>http://mvn.lumine.io/repository/maven-releases/</url>
+  <url>https://mvn.lumine.io/repository/maven-releases/</url>
 </repository>
 
 <dependency>
