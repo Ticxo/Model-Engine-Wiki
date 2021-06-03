@@ -24,7 +24,7 @@ Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your mode
 <dependency>
   <groupId>com.ticxo.modelengine</groupId>
   <artifactId>api</artifactId>
-  <version>R2.1.5</version>
+  <version>R2.1.6</version>
 </dependency>
 ```
 
