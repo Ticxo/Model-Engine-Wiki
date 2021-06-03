@@ -27,6 +27,7 @@ Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your mode
   <groupId>com.ticxo.modelengine</groupId>
   <artifactId>api</artifactId>
   <version>Check above</version>
+  <scope>provided</scope>
 </dependency>
 ```
 
