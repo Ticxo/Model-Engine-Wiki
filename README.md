@@ -19,8 +19,8 @@ Click [here](https://github.com/Ticxo/Model-Engine-Wiki/wiki) to start your mode
 ```xml
 <repository>
   <id>nexus</id>
-  <name>Lumine Releases</name>
-  <url>https://mvn.lumine.io/repository/maven-releases/</url>
+  <name>Lumine Public</name>
+  <url>https://mvn.lumine.io/repository/maven-public/</url>
 </repository>
 
 <dependency>
