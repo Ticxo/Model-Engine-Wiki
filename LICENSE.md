@@ -15,7 +15,15 @@ Copyright (C) 2021 Ticxo
     * Modifying source code of Model Engine to enhance functionality
 3. If You create extensions or modifications of this Plugin, they may not be published or Distributed without express permission from the Licensor.
 4. Licensor does not retain any rights or responsibilities for the Resources You generate using Model Engine.
-5. The following is a list of all registered licensing entities at the onset of this license:
+5. If using this plugin in the production of NFTs, or in association with a service that utilizes NFTs which profits
+off of the use of our software, you must publicly disclose the use of this plugin and display reasonable credit to
+ConxeptWorks in written form with a link to our website, unless you obtain an NFT License or written waiver. You
+may contact Ticxo to obtain such a license or waiver.
+6. You acknowledge we reserve the right to blacklist any account without notice from using our software and/or
+accessing our servers for violating this license, and that such a ban may prohibit you from utilizing our software or
+receiving any related support, and that such a ban does not constitute grounds for a refund of any money spent or
+a breach of this agreement in any way for any ConxeptWorks software you purchased.
+7. The following is a list of all registered licensing entities at the onset of this license:
     * www.spigotmc.org/resources/79477/
     * www.mc-market.org/resources/15743/
     * www.mythiccraft.io/index.php?resources/389/
