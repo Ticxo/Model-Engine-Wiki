@@ -27,7 +27,6 @@
             
             Blockbench.on('update_selection', () => {
                 Formats.free.codec.format.rotation_limit = !Group.selected;
-                console.log(Formats.free.codec.format.rotation_limit);
             });
             
         }
