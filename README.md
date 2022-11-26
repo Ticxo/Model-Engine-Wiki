@@ -1,3 +1,4 @@
+# This wiki is archived. Visit the new wiki [here](https://git.lumine.io/mythiccraft/modelengine/-/wikis/home).
 ![Alt](/ModelEngineBanner.png )
 Credits: [ForrestBono(content creator)](https://www.youtube.com/c/Forrestbono), [Painful(content creator)](https://www.youtube.com/c/Painful)
 # Model Engine
