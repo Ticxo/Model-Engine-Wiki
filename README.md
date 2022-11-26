@@ -40,4 +40,4 @@ Scarecrow ([Naoxia](https://www.youtube.com/channel/UCc5itTcpJZV_5Sj2VvfS1DA)) [
 Kindletron Senior ([LittleRoomDev](https://www.youtube.com/channel/UCGgqcLqJSpXVqanJyE_6L3A)) [[Download]](https://www.patreon.com/posts/kindletron-free-49222891)
 
 ## Bug Reports, Feature Requests, Plugin Support, Community, and Marketplace
-Join our [Discord](https://discord.gg/vbdyuac). It's free, and you can socialize with other users!
+Join our [Discord](https://discord.gg/K3tqXfT). It's free, and you can socialize with other users!
